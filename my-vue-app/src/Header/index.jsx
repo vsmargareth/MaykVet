@@ -1,6 +1,6 @@
 import Container from './style'
-import PawIcon from '../assets/icone-pata'
-import MaykIcon from '..assets/logo'
+import PawIcon from './assets/icone-pata'
+import MaykIcon from '.assets/logo'
 export function Header() {
   return (
     <Container>
